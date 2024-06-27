@@ -3,7 +3,7 @@
 ![GitHub followers](https://img.shields.io/github/followers/AntonioTach?label=Follow&style=social)  
 ![GitHub stars](https://img.shields.io/github/stars/AntonioTach?style=social)
 
-## 💻 Full Stack Developer | 🌟 Dreamer and Hard Worker | 🎶 Code and Music Lover
+## 💻 Full Stack Web Developer | 🌟 Dreamer and Hard Worker | 🎶 Code and Music Lover
 
 🌐 Passionate about creating impactful web and mobile applications. Always seeking new challenges and opportunities to learn and grow.
 
