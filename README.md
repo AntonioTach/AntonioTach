@@ -1,19 +1,34 @@
-# 🚀 Hi, I'm Antonio Tach! 👋
+<div align="center">
+  <h1>🚀 Hi, I'm Antonio Tach! 👋</h1>
+</div>
 
-![GitHub followers](https://img.shields.io/github/followers/AntonioTach?label=Follow&style=social)  
-![GitHub stars](https://img.shields.io/github/stars/AntonioTach?style=social)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=5D68FF&width=435&lines=Full+Stack+Web+Developer+%F0%9F%92%BB)](https://git.io/typing-svg)
+---
 
-## 💻 Full Stack Web Developer | 🌟 Dreamer and Hard Worker | 🎶 Code and Music Lover
+## 🌟 About Me
 
-🌐 Passionate about creating impactful web and mobile applications. Always seeking new challenges and opportunities to learn and grow.
+**🌐 Passionate Creator**  
+Creating impactful web and mobile applications is my thing. I thrive on new challenges and am always eager to learn and grow.
 
-### About Me:
-- 🔭 I’m currently working on various web and mobile applications.
-- 🌱 I’m always learning and expanding my skills in new technologies.
-- 📫 How to reach me: [Email](mailto:antach.vihe@gmail.com)
-- 🏢 Founder of [Udigital Business](https://www.udigitalbusiness.com).
-- 💬 Ask me about anything related to coding or music.
-- 💬 Languages: English and Spanish
+**🔭 Current Projects**  
+Working on exciting web and mobile applications that push the boundaries of creativity and functionality.
+
+**🌱 Lifelong Learning**  
+Always expanding my skill set in emerging technologies and looking for ways to innovate.
+
+**📫 How to Reach Me**  
+[📧 Email me!](mailto:antach.vihe@gmail.com)
+
+**🏢 Founder**  
+Proud to lead [Udigital Business](https://www.udigitalbusiness.com), where we bring digital solutions.
+
+**💬 Let’s Talk!**  
+Ask me anything about coding or music—I’d love to connect.
+
+**🌍 Languages**  
+Fluent in both English and Spanish.
+
+---
 
 ### 🚀 My Tech Stack:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
@@ -66,11 +81,37 @@
 ![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat-square&logo=jenkins)
 ![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat-square&logo=jira)
 
+---
+
+<p align="center">
+  <a href="https://github.com/AntonioTach?tab=followers">
+    <img src="https://img.shields.io/github/followers/AntonioTach?label=Follow&style=social" alt="GitHub followers">
+  </a>
+  <a href="https://github.com/AntonioTach">
+    <img src="https://img.shields.io/github/stars/AntonioTach?style=social" alt="GitHub stars">
+  </a>
+</p>
+
+---
+
+
 ### 🏆 GitHub Trophies:
 ![trophy](https://github-profile-trophy.vercel.app/?username=AntonioTach&theme=onedark)
 
-### 📈 GitHub Stats:
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AntonioTach&theme=radical)
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AntonioTach&theme=radical" alt="GitHub Streak" width="47%">
+  <img src="https://github-readme-stats.vercel.app/api?username=AntonioTach&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="47%">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AntonioTach&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Top Languages" width="50%">
+</p>
+
+
 
 ### 📫 Connect with Me:
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/antonio-viña-hernández-5b6b611b4/)
