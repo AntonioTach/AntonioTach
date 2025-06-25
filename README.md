@@ -2,7 +2,7 @@
   <h1>🚀 Hi, I'm Antonio Tach! 👋</h1>
 </div>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=5D68FF&width=435&lines=Full+Stack+Web+Developer+%F0%9F%92%BB)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=5D68FF&width=600&lines=Full+Stack+Web+Developer+%F0%9F%92%BB;Cloud+Infrastructure+Engineer+%E2%9A%99%EF%B8%8F;DevOps+%F0%9F%9A%80)](https://git.io/typing-svg)
 ---
 
 ## 🌟 About Me
@@ -10,17 +10,17 @@
 **🌐 Passionate Creator**  
 Creating impactful web and mobile applications is my thing. I thrive on new challenges and am always eager to learn and grow.
 
+**🛠️ Cloud & DevOps Professional**  
+Currently working in **Cloud Infrastructure** and **DevOps**, building scalable solutions in Azure and automating environments for performance, security, and reliability.
+
 **🔭 Current Projects**  
-Working on exciting web and mobile applications that push the boundaries of creativity and functionality.
+Working on exciting web and mobile applications, cloud automations, and DevOps pipelines that push the boundaries of creativity and functionality.
 
 **🌱 Lifelong Learning**  
 Always expanding my skill set in emerging technologies and looking for ways to innovate.
 
 **📫 How to Reach Me**  
 [📧 Email me!](mailto:antach.vihe@gmail.com)
-
-**🏢 Founder**  
-Proud to lead [Udigital Business](https://www.udigitalbusiness.com), where we bring digital solutions.
 
 **💬 Let’s Talk!**  
 Ask me anything about coding or music—I’d love to connect.
@@ -31,15 +31,44 @@ Fluent in both English and Spanish.
 ---
 
 ### 🚀 My Tech Stack:
+
+#### 💻 Programming Languages
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python)
 ![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp)
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2b%2b)
 ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)
 
+#### ☁️ Cloud Platforms & Infrastructure
+![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat-square&logo=microsoft-azure)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws)
+![Google Cloud](https://img.shields.io/badge/-Google_Cloud-4285F4?style=flat-square&logo=google-cloud)
+
+#### ⚙️ DevOps & CI/CD
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes)
+![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat-square&logo=jenkins)
+![Terraform](https://img.shields.io/badge/-Terraform-623CE4?style=flat-square&logo=terraform)
+![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat-square&logo=github-actions)
+![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnubash)
+![Ansible](https://img.shields.io/badge/-Ansible-EE0000?style=flat-square&logo=ansible)
+
+#### 🔐 Security & Monitoring
+![Grafana](https://img.shields.io/badge/-Grafana-F46800?style=flat-square&logo=grafana)
+![Prometheus](https://img.shields.io/badge/-Prometheus-E6522C?style=flat-square&logo=prometheus)
+![Datadog](https://img.shields.io/badge/-Datadog-632CA6?style=flat-square&logo=datadog)
+![Azure Security Center](https://img.shields.io/badge/-Azure%20Security%20Center-0078D4?style=flat-square&logo=microsoft-azure)
+
+#### 🛠 Tools & Version Control
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![GitLab](https://img.shields.io/badge/-GitLab-FC6D26?style=flat-square&logo=gitlab)
+![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat-square&logo=jira)
+
+### More
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react)
 ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular)
